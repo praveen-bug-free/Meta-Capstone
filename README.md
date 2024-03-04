@@ -1,5 +1,5 @@
 # Meta Capstone Website
-# Little lemon restaurant online rservation system
+# Little lemon restaurant online reservation system
 
 ## Description
 Welcome to the Little Lemon Restaurant Online Reservation System! 
